@@ -12,3 +12,5 @@ https://brandonsauer8.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by brandonsauer8
+
+### ©️2019 Run Buddy, Inc
